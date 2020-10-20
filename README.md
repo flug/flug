@@ -32,7 +32,7 @@
 
 ![nia nia nia](images/illustration.png)
 
-  																**PHP**  **Symfony**  CakePHP  ReactPHP  **Javascript**  Java  C#  **ReactJS**etc...
+**PHP**  **Symfony**  CakePHP  ReactPHP  **Javascript**  Java  C#  **ReactJS**etc...
 
 
 
