@@ -51,3 +51,10 @@
 
 ![](images/covers/unnamed.jpg)Psykup : https://open.spotify.com/album/2HSRHoiIfRHRRHNiGtBaMJ?si=2f38pP6QR821WVCeXa89fQ
 
+
+
+```php
+<?php echo "thank you for reading, dude 😉"; 
+```
+
+[Comment](https://github.com/flug/flug/issues/new)
