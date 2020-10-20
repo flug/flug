@@ -1,8 +1,8 @@
-**Hi my name is Flug** 🧐
+
 
 ![flug it's me](images/flug.png)
 
-**I am Flug developer and French Backend, GitHub is my favorite social network and I love to share. As an open-source enthusiast, I spend a lot of time [exploring](https://github.com/explore) what the community produces.**  [#TMTC](https://fr.wiktionary.org/wiki/TMTC).  
+**I am Flug developer and French Backend, GitHub is my favorite social network and I love to share. As an open-source enthusiast, I spend a lot of time [exploring](https://github.com/explore) what the community produces.**  [#TMTC](https://fr.wiktionary.org/wiki/TMTC) 😉.  
 
 ```php
 <?php echo "Coucou"; 
