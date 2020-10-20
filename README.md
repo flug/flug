@@ -58,3 +58,7 @@
 ```
 
 [Comment](https://github.com/flug/flug/issues/new)
+
+the video of this page 
+
+ [![twitch](images/580b57fcd9996e24bc43c540.png)](https://www.twitch.tv/videos/776585796)
