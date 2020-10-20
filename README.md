@@ -35,6 +35,12 @@
 
 **PHP** , **Symfony**,  CakePHP,  ReactPHP,  **Javascript**,  Java,  C#,  **ReactJS**, etc...
 
+------
+
+***My favorite music :***  
+
+![Dagoba](images/covers/4f1d89b68ecf08baee53e26de1416ff5.jpg)
+
 
 
 
