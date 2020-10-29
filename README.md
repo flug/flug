@@ -33,7 +33,7 @@
 
 ![nia nia nia](images/illustration.png)
 
-**PHP** , **Symfony**,  CakePHP,  ReactPHP,  **Javascript**,  Java,  C#,  **ReactJS**, etc...
+   ![PHP](https://img.shields.io/badge/-PHP-purple), ![Symfony](https://img.shields.io/badge/SF-symfony-black) , ![Cakephp](https://img.shields.io/badge/-cakephp-red) , ![](https://img.shields.io/badge/-ReactPHP-informational) , ![](https://img.shields.io/badge/-Javascript-gray) ,  ![Java](https://img.shields.io/badge/-Java-purple), ![](https://img.shields.io/badge/-CSharp-success) ,![](https://img.shields.io/badge/-ReactJs-9cf)  , etc...
 
 ------
 
