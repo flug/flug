@@ -24,6 +24,7 @@
 			🤬		 YouTube    :  https://www.youtube.com/channel/UCUMsCT5STptYarwzlanI8mw  
 			    🤓 	Dev.to        :  https://dev.to/flug  
 🤯 😵😱🥵	 Stackoverflow : https://stackoverflow.com/users/2667201/flug  
+👾					Discord : https://discord.gg/hyB2cN2
 
 ------
 
