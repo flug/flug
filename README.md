@@ -39,19 +39,16 @@
 
 ***My favorite music :***  
 
-![Dagoba](images/covers/4f1d89b68ecf08baee53e26de1416ff5.jpg)Dagoba self album : <no link>
-
-![](images/covers/a1047293868_10.jpg) The Arrs : https://open.spotify.com/album/6jQcX2rMzJjXs0FIm2GEfN?si=QZ9cA_krTZe9qnpfD6IzsQ
-
-![](images/covers/a1994288441_10.jpg) Rise of the Northstar : https://open.spotify.com/album/6q04u0C0h5wSToPiQwUQmN?si=Au2zijaWQeGUROhBg8vwjQ
-
-![](images/covers/From_Mars_to_Sirius.jpg)Gojira : https://open.spotify.com/album/48oP5ver3MEQ68DvJ22CvY?si=rHRXWIUzRSCaJ8GH8YcnRA
-
-![](images/covers/R-4543403-1367886739-4074.jpeg.jpg)Pleymo : https://open.spotify.com/album/0rNcytw4wOXB7NG2B5jrDV?si=CicT4uNKRFSh2AYysFIYTg
-
-![](images/covers/unnamed.jpg)Psykup : https://open.spotify.com/album/2HSRHoiIfRHRRHNiGtBaMJ?si=2f38pP6QR821WVCeXa89fQ
 
 
+![](images/covers/covers.jpg)
+
+- Dagoba self
+- [The Arrs](https://open.spotify.com/album/6jQcX2rMzJjXs0FIm2GEfN?si=QZ9cA_krTZe9qnpfD6IzsQ) 
+- [ Rise of the Northstar](https://open.spotify.com/album/6q04u0C0h5wSToPiQwUQmN?si=Au2zijaWQeGUROhBg8vwjQ)
+- [Gojira](https://open.spotify.com/album/48oP5ver3MEQ68DvJ22CvY?si=rHRXWIUzRSCaJ8GH8YcnRA) 
+- [Pleymo]( https://open.spotify.com/album/0rNcytw4wOXB7NG2B5jrDV?si=CicT4uNKRFSh2AYysFIYTg)
+- [Psykup](https://open.spotify.com/album/2HSRHoiIfRHRRHNiGtBaMJ?si=2f38pP6QR821WVCeXa89fQ) 
 
 ```php
 <?php echo "thank you for reading, dude 😉"; 
