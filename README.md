@@ -65,6 +65,12 @@
 
 the video of this page 
 
+Part : 1
+
  [![twitch](images/580b57fcd9996e24bc43c540.png)](https://www.twitch.tv/videos/776585796)
+
+Part 2:
+
+ [![twitch](images/580b57fcd9996e24bc43c540.png)](https://www.twitch.tv/videos/785882056)
 
 [![Comment](images/comment.png)](https://github.com/flug/flug/issues/new)
