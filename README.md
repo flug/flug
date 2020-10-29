@@ -2,7 +2,13 @@
 
 ![flug it's me](images/flug.png)
 
-**I am Flug developer and French Backend, GitHub is my favorite social network and I love to share. As an open-source enthusiast, I spend a lot of time [exploring](https://github.com/explore) what the community produces.**  [#TMTC](https://fr.wiktionary.org/wiki/TMTC) 😉.  
+**Hi I'm Flug, I'm a PHP backend developer with about ten years of experience and I love open-source and knowledge sharing.** 
+**I used to be a cook, then an industrial maintenance technician and finally a developer.** 
+**I share a maximum of the knowledge I accumulate over time to share it with whoever wants to benefit from it.** 
+
+**I have a Twitch channel and a YouTube channel (links below).** 
+
+**You can contact me on the different social networks, where I'm still active, don't hesitate to contact me.** 
 
 ```php
 <?php echo "Coucou"; 
