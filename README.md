@@ -6,7 +6,7 @@
 **I used to be a cook, then an industrial maintenance technician and finally a developer.** 
 **I share a maximum of the knowledge I accumulate over time to share it with whoever wants to benefit from it.** 
 
-**I have a Twitch channel and a YouTube channel (links below).** 
+**I have a Twitch channel and a YouTube channel (links below).** ⤵️
 
 **You can contact me on the different social networks, where I'm still active, don't hesitate to contact me.** 
 
