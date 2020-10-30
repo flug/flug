@@ -2,7 +2,7 @@
 
 ![flug it's me](images/flug.png)
 
-**Hi I'm Flug, I'm a PHP backend developer with about ten years of experience and I love open-source and knowledge sharing.** 
+**Hi I'm Flug and I'm a PHP backend developer with about ten years of experience and I love open-source and knowledge sharing.** 
 **I used to be a cook, then an industrial maintenance technician and finally a developer.** 
 **I share a maximum of the knowledge I accumulate over time to share it with whoever wants to benefit from it.** 
 
