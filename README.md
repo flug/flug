@@ -57,6 +57,8 @@
 - [Pleymo]( https://open.spotify.com/album/0rNcytw4wOXB7NG2B5jrDV?si=CicT4uNKRFSh2AYysFIYTg)
 - [Psykup](https://open.spotify.com/album/2HSRHoiIfRHRRHNiGtBaMJ?si=2f38pP6QR821WVCeXa89fQ) 
 
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=flugv1)
+
 ```php
 <?php echo "thank you for reading, dude 😉"; 
 ```
