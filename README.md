@@ -10,6 +10,9 @@
 
 **You can contact me on the different social networks, where I'm still active, don't hesitate to contact me.** 
 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=flug&theme=oldie&title=-Commits,-Reviews,-Issues,-PullRequest)](https://github.com/flug/flug)
+
 ```php
 <?php echo "Coucou"; 
 ```
